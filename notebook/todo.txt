@@ -17,3 +17,7 @@ Dataset source:
 
 ** Data should not exceed 200 MB cause it too much for github. So, every data taht push to github should be the only data that needed.
 
+2. About requirement.txt 
+- pip install -r requirements.txt
+
+** In fact, no one have the same library as our environment so requirement.txt can make another user know what library they need to install.
