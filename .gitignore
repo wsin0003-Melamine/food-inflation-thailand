@@ -3,4 +3,4 @@ __pycache__/
 .ipynb_checkpoints/
 .DS_Store
 .Rhistory
-data/global_food_prices.csv
+data/raw/global_food_prices.csv
