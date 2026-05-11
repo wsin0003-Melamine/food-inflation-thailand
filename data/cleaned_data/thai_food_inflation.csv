@@ -1,0 +1,850 @@
+country,product,price,month,year,unit,inflation_rate
+Thailand,Maize - Wholesale,5.28,1,2000,KG,1.59196917460972
+Thailand,Maize - Wholesale,4.718,2,2000,KG,1.59196917460972
+Thailand,Maize - Wholesale,5.43,3,2000,KG,1.59196917460972
+Thailand,Maize - Wholesale,5.46,4,2000,KG,1.59196917460972
+Thailand,Maize - Wholesale,5.125,5,2000,KG,1.59196917460972
+Thailand,Maize - Wholesale,4.417,6,2000,KG,1.59196917460972
+Thailand,Maize - Wholesale,4.25,7,2000,KG,1.59196917460972
+Thailand,Maize - Wholesale,4.0,8,2000,KG,1.59196917460972
+Thailand,Maize - Wholesale,4.133,9,2000,KG,1.59196917460972
+Thailand,Maize - Wholesale,4.542,10,2000,KG,1.59196917460972
+Thailand,Maize - Wholesale,4.5,11,2000,KG,1.59196917460972
+Thailand,Maize - Wholesale,4.667,12,2000,KG,1.59196917460972
+Thailand,Maize - Wholesale,4.553,1,2001,KG,1.62690887314091
+Thailand,Maize - Wholesale,4.293,2,2001,KG,1.62690887314091
+Thailand,Maize - Wholesale,4.287,3,2001,KG,1.62690887314091
+Thailand,Maize - Wholesale,4.317,4,2001,KG,1.62690887314091
+Thailand,Maize - Wholesale,4.4,5,2001,KG,1.62690887314091
+Thailand,Maize - Wholesale,4.337,6,2001,KG,1.62690887314091
+Thailand,Maize - Wholesale,4.161,7,2001,KG,1.62690887314091
+Thailand,Maize - Wholesale,4.3145,8,2001,KG,1.62690887314091
+Thailand,Maize - Wholesale,4.3475,9,2001,KG,1.62690887314091
+Thailand,Maize - Wholesale,4.501,10,2001,KG,1.62690887314091
+Thailand,Maize - Wholesale,4.448,11,2001,KG,1.62690887314091
+Thailand,Maize - Wholesale,4.309,12,2001,KG,1.62690887314091
+Thailand,Maize - Wholesale,4.3652,1,2002,KG,0.697308976625449
+Thailand,Maize - Wholesale,4.4959,2,2002,KG,0.697308976625449
+Thailand,Maize - Wholesale,4.864,3,2002,KG,0.697308976625449
+Thailand,Maize - Wholesale,4.92,4,2002,KG,0.697308976625449
+Thailand,Maize - Wholesale,5.1113,5,2002,KG,0.697308976625449
+Thailand,Maize - Wholesale,5.034,6,2002,KG,0.697308976625449
+Thailand,Maize - Wholesale,4.8455,7,2002,KG,0.697308976625449
+Thailand,Maize - Wholesale,4.4536,8,2002,KG,0.697308976625449
+Thailand,Maize - Wholesale,4.38,9,2002,KG,0.697308976625449
+Thailand,Maize - Wholesale,4.9955,10,2002,KG,0.697308976625449
+Thailand,Maize - Wholesale,4.5505,11,2002,KG,0.697308976625449
+Thailand,Maize - Wholesale,4.7944,12,2002,KG,0.697308976625449
+Thailand,Maize - Wholesale,4.7509,1,2003,KG,1.80434994635721
+Thailand,Maize - Wholesale,4.8984,2,2003,KG,1.80434994635721
+Thailand,Maize - Wholesale,5.0705,3,2003,KG,1.80434994635721
+Thailand,Maize - Wholesale,5.06,4,2003,KG,1.80434994635721
+Thailand,Maize - Wholesale,4.9974,5,2003,KG,1.80434994635721
+Thailand,Maize - Wholesale,5.0705,6,2003,KG,1.80434994635721
+Thailand,Maize - Wholesale,4.95,7,2003,KG,1.80434994635721
+Thailand,Maize - Wholesale,4.9473,8,2003,KG,1.80434994635721
+Thailand,Maize - Wholesale,4.7607,9,2003,KG,1.80434994635721
+Thailand,Maize - Wholesale,4.7556,10,2003,KG,1.80434994635721
+Thailand,Maize - Wholesale,4.9653,11,2003,KG,1.80434994635721
+Thailand,Maize - Wholesale,4.9274,12,2003,KG,1.80434994635721
+Thailand,Maize - Wholesale,4.875,1,2004,KG,2.7591492623108
+Thailand,Maize - Wholesale,4.6805,2,2004,KG,2.7591492623108
+Thailand,Maize - Wholesale,5.4,3,2004,KG,2.7591492623108
+Thailand,Maize - Wholesale,7.6428,4,2004,KG,2.7591492623108
+Thailand,Maize - Wholesale,7.133,5,2004,KG,2.7591492623108
+Thailand,Maize - Wholesale,7.1526,6,2004,KG,2.7591492623108
+Thailand,Maize - Wholesale,6.0534,7,2004,KG,2.7591492623108
+Thailand,Maize - Wholesale,4.91,8,2004,KG,2.7591492623108
+Thailand,Maize - Wholesale,4.585,9,2004,KG,2.7591492623108
+Thailand,Maize - Wholesale,4.7408,10,2004,KG,2.7591492623108
+Thailand,Maize - Wholesale,5.0725,11,2004,KG,2.7591492623108
+Thailand,Maize - Wholesale,5.381,12,2004,KG,2.7591492623108
+Thailand,Maize - Wholesale,5.444,1,2005,KG,4.54036919634535
+Thailand,Maize - Wholesale,5.496,2,2005,KG,4.54036919634535
+Thailand,Maize - Wholesale,5.4872,3,2005,KG,4.54036919634535
+Thailand,Maize - Wholesale,5.485,4,2005,KG,4.54036919634535
+Thailand,Maize - Wholesale,5.4521,5,2005,KG,4.54036919634535
+Thailand,Maize - Wholesale,5.4432,6,2005,KG,4.54036919634535
+Thailand,Maize - Wholesale,5.56,7,2005,KG,4.54036919634535
+Thailand,Maize - Wholesale,5.469,8,2005,KG,4.54036919634535
+Thailand,Maize - Wholesale,5.3927,9,2005,KG,4.54036919634535
+Thailand,Maize - Wholesale,5.5255,10,2005,KG,4.54036919634535
+Thailand,Maize - Wholesale,5.5516,11,2005,KG,4.54036919634535
+Thailand,Maize - Wholesale,5.397,12,2005,KG,4.54036919634535
+Thailand,Maize - Wholesale,5.335,1,2006,KG,4.63747436011765
+Thailand,Maize - Wholesale,5.3797,2,2006,KG,4.63747436011765
+Thailand,Maize - Wholesale,5.4885,3,2006,KG,4.63747436011765
+Thailand,Maize - Wholesale,6.1932,4,2006,KG,4.63747436011765
+Thailand,Maize - Wholesale,6.4143,5,2006,KG,4.63747436011765
+Thailand,Maize - Wholesale,6.4648,6,2006,KG,4.63747436011765
+Thailand,Maize - Wholesale,6.3434,7,2006,KG,4.63747436011765
+Thailand,Maize - Wholesale,5.9175,8,2006,KG,4.63747436011765
+Thailand,Maize - Wholesale,5.9313,9,2006,KG,4.63747436011765
+Thailand,Maize - Wholesale,6.339,10,2006,KG,4.63747436011765
+Thailand,Maize - Wholesale,6.3864,11,2006,KG,4.63747436011765
+Thailand,Maize - Wholesale,7.0713,12,2006,KG,4.63747436011765
+Thailand,Maize - Wholesale,7.4621,1,2007,KG,2.24154095286803
+Thailand,Maize - Wholesale,8.0578,2,2007,KG,2.24154095286803
+Thailand,Maize - Wholesale,8.0336,3,2007,KG,2.24154095286803
+Thailand,Maize - Wholesale,7.8141,4,2007,KG,2.24154095286803
+Thailand,Maize - Wholesale,7.42,5,2007,KG,2.24154095286803
+Thailand,Maize - Wholesale,7.3648,6,2007,KG,2.24154095286803
+Thailand,Maize - Wholesale,7.314,7,2007,KG,2.24154095286803
+Thailand,Maize - Wholesale,7.145,8,2007,KG,2.24154095286803
+Thailand,Maize - Wholesale,7.8358,9,2007,KG,2.24154095286803
+Thailand,Maize - Wholesale,8.3836,10,2007,KG,2.24154095286803
+Thailand,Maize - Wholesale,8.207,11,2007,KG,2.24154095286803
+Thailand,Maize - Wholesale,8.2338,12,2007,KG,2.24154095286803
+Thailand,Maize - Wholesale,8.36,1,2008,KG,5.46848949649845
+Thailand,Maize - Wholesale,8.4,2,2008,KG,5.46848949649845
+Thailand,Maize - Wholesale,8.97,3,2008,KG,5.46848949649845
+Thailand,Maize - Wholesale,9.36,4,2008,KG,5.46848949649845
+Thailand,Maize - Wholesale,9.23,5,2008,KG,5.46848949649845
+Thailand,Maize - Wholesale,9.47,6,2008,KG,5.46848949649845
+Thailand,Maize - Wholesale,10.67,7,2008,KG,5.46848949649845
+Thailand,Maize - Wholesale,10.05,8,2008,KG,5.46848949649845
+Thailand,Maize - Wholesale,8.95,9,2008,KG,5.46848949649845
+Thailand,Maize - Wholesale,7.99,10,2008,KG,5.46848949649845
+Thailand,Maize - Wholesale,7.91,11,2008,KG,5.46848949649845
+Thailand,Maize - Wholesale,6.97,12,2008,KG,5.46848949649845
+Thailand,Maize - Wholesale,7.34,1,2009,KG,-0.845716092316721
+Thailand,Maize - Wholesale,7.46,2,2009,KG,-0.845716092316721
+Thailand,Maize - Wholesale,7.58,3,2009,KG,-0.845716092316721
+Thailand,Maize - Wholesale,7.55,4,2009,KG,-0.845716092316721
+Thailand,Maize - Wholesale,7.18,5,2009,KG,-0.845716092316721
+Thailand,Maize - Wholesale,7.22,6,2009,KG,-0.845716092316721
+Thailand,Maize - Wholesale,6.33,7,2009,KG,-0.845716092316721
+Thailand,Maize - Wholesale,6.19,8,2009,KG,-0.845716092316721
+Thailand,Maize - Wholesale,6.12,9,2009,KG,-0.845716092316721
+Thailand,Maize - Wholesale,6.25,10,2009,KG,-0.845716092316721
+Thailand,Maize - Wholesale,7.04,11,2009,KG,-0.845716092316721
+Thailand,Maize - Wholesale,7.78,12,2009,KG,-0.845716092316721
+Thailand,Maize - Wholesale,8.05,1,2010,KG,3.24758842443723
+Thailand,Maize - Wholesale,8.3,2,2010,KG,3.24758842443723
+Thailand,Maize - Wholesale,8.77,3,2010,KG,3.24758842443723
+Thailand,Maize - Wholesale,9.07,4,2010,KG,3.24758842443723
+Thailand,Maize - Wholesale,9.17,5,2010,KG,3.24758842443723
+Thailand,Maize - Wholesale,9.43,6,2010,KG,3.24758842443723
+Thailand,Maize - Wholesale,9.34,7,2010,KG,3.24758842443723
+Thailand,Maize - Wholesale,8.88,8,2010,KG,3.24758842443723
+Thailand,Maize - Wholesale,9.08,9,2010,KG,3.24758842443723
+Thailand,Maize - Wholesale,9.02,10,2010,KG,3.24758842443723
+Thailand,Maize - Wholesale,9.07,11,2010,KG,3.24758842443723
+Thailand,Maize - Wholesale,9.03,12,2010,KG,3.24758842443723
+Thailand,Maize - Wholesale,9.28,1,2011,KG,3.80879058139634
+Thailand,Maize - Wholesale,9.46,2,2011,KG,3.80879058139634
+Thailand,Maize - Wholesale,9.86,3,2011,KG,3.80879058139634
+Thailand,Maize - Wholesale,10.41,4,2011,KG,3.80879058139634
+Thailand,Maize - Wholesale,10.2,5,2011,KG,3.80879058139634
+Thailand,Maize - Wholesale,9.51,6,2011,KG,3.80879058139634
+Thailand,Maize - Wholesale,8.81,7,2011,KG,3.80879058139634
+Thailand,Maize - Wholesale,9.02,8,2011,KG,3.80879058139634
+Thailand,Maize - Wholesale,9.05,9,2011,KG,3.80879058139634
+Thailand,Maize - Wholesale,9.19,10,2011,KG,3.80879058139634
+Thailand,Maize - Wholesale,9.67,11,2011,KG,3.80879058139634
+Thailand,Maize - Wholesale,9.82,12,2011,KG,3.80879058139634
+Thailand,Maize - Wholesale,9.98,1,2012,KG,3.01489950334985
+Thailand,Maize - Wholesale,10.07,2,2012,KG,3.01489950334985
+Thailand,Maize - Wholesale,10.2,3,2012,KG,3.01489950334985
+Thailand,Maize - Wholesale,10.43,4,2012,KG,3.01489950334985
+Thailand,Maize - Wholesale,10.17,5,2012,KG,3.01489950334985
+Thailand,Maize - Wholesale,10.44,6,2012,KG,3.01489950334985
+Thailand,Maize - Wholesale,10.72,7,2012,KG,3.01489950334985
+Thailand,Maize - Wholesale,11.49,8,2012,KG,3.01489950334985
+Thailand,Maize - Wholesale,10.45,9,2012,KG,3.01489950334985
+Thailand,Maize - Wholesale,10.13,10,2012,KG,3.01489950334985
+Thailand,Maize - Wholesale,10.49,11,2012,KG,3.01489950334985
+Thailand,Maize - Wholesale,10.22,12,2012,KG,3.01489950334985
+Thailand,Maize - Wholesale,10.2,1,2013,KG,2.18488618530687
+Thailand,Maize - Wholesale,10.21,2,2013,KG,2.18488618530687
+Thailand,Maize - Wholesale,10.19,3,2013,KG,2.18488618530687
+Thailand,Maize - Wholesale,10.23,4,2013,KG,2.18488618530687
+Thailand,Maize - Wholesale,9.95,5,2013,KG,2.18488618530687
+Thailand,Maize - Wholesale,10.2,6,2013,KG,2.18488618530687
+Thailand,Maize - Wholesale,9.77,7,2013,KG,2.18488618530687
+Thailand,Maize - Wholesale,9.21,8,2013,KG,2.18488618530687
+Thailand,Maize - Wholesale,8.56,9,2013,KG,2.18488618530687
+Thailand,Maize - Wholesale,8.08,10,2013,KG,2.18488618530687
+Thailand,Maize - Wholesale,7.95,11,2013,KG,2.18488618530687
+Thailand,Maize - Wholesale,7.37,12,2013,KG,2.18488618530687
+Thailand,Maize - Wholesale,7.53,1,2014,KG,1.8951418189878
+Thailand,Maize - Wholesale,8.44,2,2014,KG,1.8951418189878
+Thailand,Maize - Wholesale,8.73,3,2014,KG,1.8951418189878
+Thailand,Maize - Wholesale,9.23,4,2014,KG,1.8951418189878
+Thailand,Maize - Wholesale,9.34,5,2014,KG,1.8951418189878
+Thailand,Maize - Wholesale,10.06,6,2014,KG,1.8951418189878
+Thailand,Maize - Wholesale,10.31,7,2014,KG,1.8951418189878
+Thailand,Maize - Wholesale,9.79,8,2014,KG,1.8951418189878
+Thailand,Maize - Wholesale,8.77,9,2014,KG,1.8951418189878
+Thailand,Maize - Wholesale,8.28,10,2014,KG,1.8951418189878
+Thailand,Maize - Wholesale,9.09,11,2014,KG,1.8951418189878
+Thailand,Maize - Wholesale,9.27,12,2014,KG,1.8951418189878
+Thailand,Maize - Wholesale,9.46,1,2015,KG,-0.900424963291569
+Thailand,Maize - Wholesale,9.38,2,2015,KG,-0.900424963291569
+Thailand,Maize - Wholesale,9.38,3,2015,KG,-0.900424963291569
+Thailand,Maize - Wholesale,9.52,4,2015,KG,-0.900424963291569
+Thailand,Maize - Wholesale,9.42,5,2015,KG,-0.900424963291569
+Thailand,Maize - Wholesale,9.96,6,2015,KG,-0.900424963291569
+Thailand,Maize - Wholesale,10.63,7,2015,KG,-0.900424963291569
+Thailand,Maize - Wholesale,10.21,8,2015,KG,-0.900424963291569
+Thailand,Maize - Wholesale,9.15,9,2015,KG,-0.900424963291569
+Thailand,Maize - Wholesale,8.6,10,2015,KG,-0.900424963291569
+Thailand,Maize - Wholesale,8.65,11,2015,KG,-0.900424963291569
+Thailand,Maize - Wholesale,8.42,12,2015,KG,-0.900424963291569
+Thailand,Maize - Wholesale,8.86,1,2016,KG,0.188149704448143
+Thailand,Maize - Wholesale,8.63,2,2016,KG,0.188149704448143
+Thailand,Maize - Wholesale,8.28,3,2016,KG,0.188149704448143
+Thailand,Maize - Wholesale,8.34,4,2016,KG,0.188149704448143
+Thailand,Maize - Wholesale,8.52,5,2016,KG,0.188149704448143
+Thailand,Maize - Wholesale,9.42,6,2016,KG,0.188149704448143
+Thailand,Maize - Wholesale,9.16,7,2016,KG,0.188149704448143
+Thailand,Maize - Wholesale,8.57,8,2016,KG,0.188149704448143
+Thailand,Maize - Wholesale,8.03,9,2016,KG,0.188149704448143
+Thailand,Maize - Wholesale,8.03,10,2016,KG,0.188149704448143
+Thailand,Maize - Wholesale,8.03,11,2016,KG,0.188149704448143
+Thailand,Maize - Wholesale,8.03,12,2016,KG,0.188149704448143
+Thailand,Maize - Wholesale,8.03,1,2017,KG,0.665631893135106
+Thailand,Maize - Wholesale,8.03,2,2017,KG,0.665631893135106
+Thailand,Maize - Wholesale,8.01,3,2017,KG,0.665631893135106
+Thailand,Maize - Wholesale,7.96,4,2017,KG,0.665631893135106
+Thailand,Maize - Wholesale,7.94,5,2017,KG,0.665631893135106
+Thailand,Maize - Wholesale,8.17,6,2017,KG,0.665631893135106
+Thailand,Maize - Wholesale,8.39,7,2017,KG,0.665631893135106
+Thailand,Maize - Wholesale,8.28,8,2017,KG,0.665631893135106
+Thailand,Maize - Wholesale,8.0,9,2017,KG,0.665631893135106
+Thailand,Maize - Wholesale,7.94,10,2017,KG,0.665631893135106
+Thailand,Maize - Wholesale,8.18,11,2017,KG,0.665631893135106
+Thailand,Maize - Wholesale,9.12,12,2017,KG,0.665631893135106
+Thailand,Maize - Wholesale,9.59,1,2018,KG,1.06389754183024
+Thailand,Maize - Wholesale,9.71,2,2018,KG,1.06389754183024
+Thailand,Maize - Wholesale,10.29,3,2018,KG,1.06389754183024
+Thailand,Maize - Wholesale,10.5,4,2018,KG,1.06389754183024
+Thailand,Maize - Wholesale,10.39,5,2018,KG,1.06389754183024
+Thailand,Maize - Wholesale,10.4,6,2018,KG,1.06389754183024
+Thailand,Maize - Wholesale,9.34,7,2018,KG,1.06389754183024
+Thailand,Maize - Wholesale,8.58,8,2018,KG,1.06389754183024
+Thailand,Maize - Wholesale,8.65,9,2018,KG,1.06389754183024
+Thailand,Maize - Wholesale,9.62,10,2018,KG,1.06389754183024
+Thailand,Maize - Wholesale,10.1,11,2018,KG,1.06389754183024
+Thailand,Maize - Wholesale,10.02,12,2018,KG,1.06389754183024
+Thailand,Maize - Wholesale,9.89,1,2019,KG,0.706728601314311
+Thailand,Maize - Wholesale,9.49,2,2019,KG,0.706728601314311
+Thailand,Maize - Wholesale,9.09,3,2019,KG,0.706728601314311
+Thailand,Maize - Wholesale,8.92,4,2019,KG,0.706728601314311
+Thailand,Maize - Wholesale,8.8,5,2019,KG,0.706728601314311
+Thailand,Maize - Wholesale,8.98,6,2019,KG,0.706728601314311
+Thailand,Maize - Wholesale,8.96,7,2019,KG,0.706728601314311
+Thailand,Maize - Wholesale,9.11,8,2019,KG,0.706728601314311
+Thailand,Maize - Wholesale,9.01,9,2019,KG,0.706728601314311
+Thailand,Maize - Wholesale,8.83,10,2019,KG,0.706728601314311
+Thailand,Maize - Wholesale,8.96,11,2019,KG,0.706728601314311
+Thailand,Maize - Wholesale,8.7,12,2019,KG,0.706728601314311
+Thailand,Maize - Wholesale,8.56,1,2020,KG,-0.845937147357041
+Thailand,Maize - Wholesale,8.48,2,2020,KG,-0.845937147357041
+Thailand,Maize - Wholesale,8.47,3,2020,KG,-0.845937147357041
+Thailand,Rice - Wholesale,7.591,1,2000,KG,1.59196917460972
+Thailand,Rice - Wholesale,7.646,2,2000,KG,1.59196917460972
+Thailand,Rice - Wholesale,7.145,3,2000,KG,1.59196917460972
+Thailand,Rice - Wholesale,6.749,4,2000,KG,1.59196917460972
+Thailand,Rice - Wholesale,6.446,5,2000,KG,1.59196917460972
+Thailand,Rice - Wholesale,6.429,6,2000,KG,1.59196917460972
+Thailand,Rice - Wholesale,6.404,7,2000,KG,1.59196917460972
+Thailand,Rice - Wholesale,6.508,8,2000,KG,1.59196917460972
+Thailand,Rice - Wholesale,6.467,9,2000,KG,1.59196917460972
+Thailand,Rice - Wholesale,6.999,10,2000,KG,1.59196917460972
+Thailand,Rice - Wholesale,6.908,11,2000,KG,1.59196917460972
+Thailand,Rice - Wholesale,6.806,12,2000,KG,1.59196917460972
+Thailand,Rice - Wholesale,6.83,1,2001,KG,1.62690887314091
+Thailand,Rice - Wholesale,6.747,2,2001,KG,1.62690887314091
+Thailand,Rice - Wholesale,6.478,3,2001,KG,1.62690887314091
+Thailand,Rice - Wholesale,6.264,4,2001,KG,1.62690887314091
+Thailand,Rice - Wholesale,6.337,5,2001,KG,1.62690887314091
+Thailand,Rice - Wholesale,6.553,6,2001,KG,1.62690887314091
+Thailand,Rice - Wholesale,6.754,7,2001,KG,1.62690887314091
+Thailand,Rice - Wholesale,6.695,8,2001,KG,1.62690887314091
+Thailand,Rice - Wholesale,6.841,9,2001,KG,1.62690887314091
+Thailand,Rice - Wholesale,6.758,10,2001,KG,1.62690887314091
+Thailand,Rice - Wholesale,6.702,11,2001,KG,1.62690887314091
+Thailand,Rice - Wholesale,6.798,12,2001,KG,1.62690887314091
+Thailand,Rice - Wholesale,7.332,1,2002,KG,0.697308976625449
+Thailand,Rice - Wholesale,7.481,2,2002,KG,0.697308976625449
+Thailand,Rice - Wholesale,7.21,3,2002,KG,0.697308976625449
+Thailand,Rice - Wholesale,7.284,4,2002,KG,0.697308976625449
+Thailand,Rice - Wholesale,7.495,5,2002,KG,0.697308976625449
+Thailand,Rice - Wholesale,7.458,6,2002,KG,0.697308976625449
+Thailand,Rice - Wholesale,7.129,7,2002,KG,0.697308976625449
+Thailand,Rice - Wholesale,7.039,8,2002,KG,0.697308976625449
+Thailand,Rice - Wholesale,7.023,9,2002,KG,0.697308976625449
+Thailand,Rice - Wholesale,7.246,10,2002,KG,0.697308976625449
+Thailand,Rice - Wholesale,7.229,11,2002,KG,0.697308976625449
+Thailand,Rice - Wholesale,7.169,12,2002,KG,0.697308976625449
+Thailand,Rice - Wholesale,7.464,1,2003,KG,1.80434994635721
+Thailand,Rice - Wholesale,7.463,2,2003,KG,1.80434994635721
+Thailand,Rice - Wholesale,7.296,3,2003,KG,1.80434994635721
+Thailand,Rice - Wholesale,7.292,4,2003,KG,1.80434994635721
+Thailand,Rice - Wholesale,7.298,5,2003,KG,1.80434994635721
+Thailand,Rice - Wholesale,7.427,6,2003,KG,1.80434994635721
+Thailand,Rice - Wholesale,7.252,7,2003,KG,1.80434994635721
+Thailand,Rice - Wholesale,7.071,8,2003,KG,1.80434994635721
+Thailand,Rice - Wholesale,7.05,9,2003,KG,1.80434994635721
+Thailand,Rice - Wholesale,6.89,10,2003,KG,1.80434994635721
+Thailand,Rice - Wholesale,6.807,11,2003,KG,1.80434994635721
+Thailand,Rice - Wholesale,6.947,12,2003,KG,1.80434994635721
+Thailand,Rice - Wholesale,7.338,1,2004,KG,2.7591492623108
+Thailand,Rice - Wholesale,7.448,2,2004,KG,2.7591492623108
+Thailand,Rice - Wholesale,8.442,3,2004,KG,2.7591492623108
+Thailand,Rice - Wholesale,8.53,4,2004,KG,2.7591492623108
+Thailand,Rice - Wholesale,8.492,5,2004,KG,2.7591492623108
+Thailand,Rice - Wholesale,8.543,6,2004,KG,2.7591492623108
+Thailand,Rice - Wholesale,8.666,7,2004,KG,2.7591492623108
+Thailand,Rice - Wholesale,8.998,8,2004,KG,2.7591492623108
+Thailand,Rice - Wholesale,8.751,9,2004,KG,2.7591492623108
+Thailand,Rice - Wholesale,8.736,10,2004,KG,2.7591492623108
+Thailand,Rice - Wholesale,9.036,11,2004,KG,2.7591492623108
+Thailand,Rice - Wholesale,9.648,12,2004,KG,2.7591492623108
+Thailand,Rice - Wholesale,9.843,1,2005,KG,4.54036919634535
+Thailand,Rice - Wholesale,9.934,2,2005,KG,4.54036919634535
+Thailand,Rice - Wholesale,9.971,3,2005,KG,4.54036919634535
+Thailand,Rice - Wholesale,10.296,4,2005,KG,4.54036919634535
+Thailand,Rice - Wholesale,10.222,5,2005,KG,4.54036919634535
+Thailand,Rice - Wholesale,10.173,6,2005,KG,4.54036919634535
+Thailand,Rice - Wholesale,10.036,7,2005,KG,4.54036919634535
+Thailand,Rice - Wholesale,10.202,8,2005,KG,4.54036919634535
+Thailand,Rice - Wholesale,10.221,9,2005,KG,4.54036919634535
+Thailand,Rice - Wholesale,10.236,10,2005,KG,4.54036919634535
+Thailand,Rice - Wholesale,9.95,11,2005,KG,4.54036919634535
+Thailand,Rice - Wholesale,10.025,12,2005,KG,4.54036919634535
+Thailand,Rice - Wholesale,10.11,1,2006,KG,4.63747436011765
+Thailand,Rice - Wholesale,10.336,2,2006,KG,4.63747436011765
+Thailand,Rice - Wholesale,10.33,3,2006,KG,4.63747436011765
+Thailand,Rice - Wholesale,10.063,4,2006,KG,4.63747436011765
+Thailand,Rice - Wholesale,9.925,5,2006,KG,4.63747436011765
+Thailand,Rice - Wholesale,9.925,6,2006,KG,4.63747436011765
+Thailand,Rice - Wholesale,9.925,7,2006,KG,4.63747436011765
+Thailand,Rice - Wholesale,9.825,8,2006,KG,4.63747436011765
+Thailand,Rice - Wholesale,9.804,9,2006,KG,4.63747436011765
+Thailand,Rice - Wholesale,9.692,10,2006,KG,4.63747436011765
+Thailand,Rice - Wholesale,9.602,11,2006,KG,4.63747436011765
+Thailand,Rice - Wholesale,9.707,12,2006,KG,4.63747436011765
+Thailand,Rice - Wholesale,9.975,1,2007,KG,2.24154095286803
+Thailand,Rice - Wholesale,9.975,2,2007,KG,2.24154095286803
+Thailand,Rice - Wholesale,9.789,3,2007,KG,2.24154095286803
+Thailand,Rice - Wholesale,9.789,4,2007,KG,2.24154095286803
+Thailand,Rice - Wholesale,9.789,5,2007,KG,2.24154095286803
+Thailand,Rice - Wholesale,9.818,6,2007,KG,2.24154095286803
+Thailand,Rice - Wholesale,9.79,7,2007,KG,2.24154095286803
+Thailand,Rice - Wholesale,9.809,8,2007,KG,2.24154095286803
+Thailand,Rice - Wholesale,9.809,9,2007,KG,2.24154095286803
+Thailand,Rice - Wholesale,9.98,10,2007,KG,2.24154095286803
+Thailand,Rice - Wholesale,10.575,11,2007,KG,2.24154095286803
+Thailand,Rice - Wholesale,11.019,12,2007,KG,2.24154095286803
+Thailand,Rice - Wholesale,11.464,1,2008,KG,5.46848949649845
+Thailand,Rice - Wholesale,13.496,2,2008,KG,5.46848949649845
+Thailand,Rice - Wholesale,16.808,3,2008,KG,5.46848949649845
+Thailand,Rice - Wholesale,25.097,4,2008,KG,5.46848949649845
+Thailand,Rice - Wholesale,23.962,5,2008,KG,5.46848949649845
+Thailand,Rice - Wholesale,20.62,6,2008,KG,5.46848949649845
+Thailand,Rice - Wholesale,20.274,7,2008,KG,5.46848949649845
+Thailand,Rice - Wholesale,18.4,8,2008,KG,5.46848949649845
+Thailand,Rice - Wholesale,18.964,9,2008,KG,5.46848949649845
+Thailand,Rice - Wholesale,15.886,10,2008,KG,5.46848949649845
+Thailand,Rice - Wholesale,14.605,11,2008,KG,5.46848949649845
+Thailand,Rice - Wholesale,14.08,12,2008,KG,5.46848949649845
+Thailand,Rice - Wholesale,15.327,1,2009,KG,-0.845716092316721
+Thailand,Rice - Wholesale,15.666,2,2009,KG,-0.845716092316721
+Thailand,Rice - Wholesale,15.359,3,2009,KG,-0.845716092316721
+Thailand,Rice - Wholesale,14.33,4,2009,KG,-0.845716092316721
+Thailand,Rice - Wholesale,14.172,5,2009,KG,-0.845716092316721
+Thailand,Rice - Wholesale,14.705,6,2009,KG,-0.845716092316721
+Thailand,Rice - Wholesale,14.86,7,2009,KG,-0.845716092316721
+Thailand,Rice - Wholesale,13.77,8,2009,KG,-0.845716092316721
+Thailand,Rice - Wholesale,13.568,9,2009,KG,-0.845716092316721
+Thailand,Rice - Wholesale,12.802,10,2009,KG,-0.845716092316721
+Thailand,Rice - Wholesale,14.107,11,2009,KG,-0.845716092316721
+Thailand,Rice - Wholesale,15.721,12,2009,KG,-0.845716092316721
+Thailand,Rice - Wholesale,15.545,1,2010,KG,3.24758842443723
+Thailand,Rice - Wholesale,14.6342,2,2010,KG,3.24758842443723
+Thailand,Rice - Wholesale,13.25,3,2010,KG,3.24758842443723
+Thailand,Rice - Wholesale,11.8147,4,2010,KG,3.24758842443723
+Thailand,Rice - Wholesale,11.7056,5,2010,KG,3.24758842443723
+Thailand,Rice - Wholesale,11.6452,6,2010,KG,3.24758842443723
+Thailand,Rice - Wholesale,11.665,7,2010,KG,3.24758842443723
+Thailand,Rice - Wholesale,12.16,8,2010,KG,3.24758842443723
+Thailand,Rice - Wholesale,12.5909,9,2010,KG,3.24758842443723
+Thailand,Rice - Wholesale,12.545,10,2010,KG,3.24758842443723
+Thailand,Rice - Wholesale,13.25,11,2010,KG,3.24758842443723
+Thailand,Rice - Wholesale,13.535,12,2010,KG,3.24758842443723
+Thailand,Rice - Wholesale,13.295,1,2011,KG,3.80879058139634
+Thailand,Rice - Wholesale,13.7553,2,2011,KG,3.80879058139634
+Thailand,Rice - Wholesale,12.6543,3,2011,KG,3.80879058139634
+Thailand,Rice - Wholesale,12.3088,4,2011,KG,3.80879058139634
+Thailand,Rice - Wholesale,12.3611,5,2011,KG,3.80879058139634
+Thailand,Rice - Wholesale,13.3545,6,2011,KG,3.80879058139634
+Thailand,Rice - Wholesale,13.9079,7,2011,KG,3.80879058139634
+Thailand,Rice - Wholesale,14.5636,8,2011,KG,3.80879058139634
+Thailand,Rice - Wholesale,15.7545,9,2011,KG,3.80879058139634
+Thailand,Rice - Wholesale,16.0853,10,2011,KG,3.80879058139634
+Thailand,Rice - Wholesale,17.1045,11,2011,KG,3.80879058139634
+Thailand,Rice - Wholesale,16.32,12,2011,KG,3.80879058139634
+Thailand,Rice - Wholesale,15.1395,1,2012,KG,3.01489950334985
+Thailand,Rice - Wholesale,14.8833,2,2012,KG,3.01489950334985
+Thailand,Rice - Wholesale,14.9833,3,2012,KG,3.01489950334985
+Thailand,Rice - Wholesale,15.5794,4,2012,KG,3.01489950334985
+Thailand,Rice - Wholesale,17.38,5,2012,KG,3.01489950334985
+Thailand,Rice - Wholesale,17.61,6,2012,KG,3.01489950334985
+Thailand,Rice - Wholesale,16.6545,7,2012,KG,3.01489950334985
+Thailand,Rice - Wholesale,16.485,8,2012,KG,3.01489950334985
+Thailand,Rice - Wholesale,16.335,9,2012,KG,3.01489950334985
+Thailand,Rice - Wholesale,16.1545,10,2012,KG,3.01489950334985
+Thailand,Rice - Wholesale,16.0864,11,2012,KG,3.01489950334985
+Thailand,Rice - Wholesale,15.9611,12,2012,KG,3.01489950334985
+Thailand,Rice - Wholesale,16.05,1,2013,KG,2.18488618530687
+Thailand,Rice - Wholesale,15.9553,2,2013,KG,2.18488618530687
+Thailand,Rice - Wholesale,15.2071,3,2013,KG,2.18488618530687
+Thailand,Rice - Wholesale,15.0333,4,2013,KG,2.18488618530687
+Thailand,Rice - Wholesale,15.05,5,2013,KG,2.18488618530687
+Thailand,Rice - Wholesale,14.985,6,2013,KG,2.18488618530687
+Thailand,Rice - Wholesale,14.65,7,2013,KG,2.18488618530687
+Thailand,Rice - Wholesale,13.669,8,2013,KG,2.18488618530687
+Thailand,Rice - Wholesale,12.6214,9,2013,KG,2.18488618530687
+Thailand,Rice - Wholesale,12.1273,10,2013,KG,2.18488618530687
+Thailand,Rice - Wholesale,11.5024,11,2013,KG,2.18488618530687
+Thailand,Rice - Wholesale,11.65,12,2013,KG,2.18488618530687
+Thailand,Rice - Wholesale,11.7545,1,2014,KG,1.8951418189878
+Thailand,Rice - Wholesale,11.9553,2,2014,KG,1.8951418189878
+Thailand,Rice - Wholesale,10.8833,3,2014,KG,1.8951418189878
+Thailand,Rice - Wholesale,10.3111,4,2014,KG,1.8951418189878
+Thailand,Rice - Wholesale,10.2,5,2014,KG,1.8951418189878
+Thailand,Rice - Wholesale,10.7738,6,2014,KG,1.8951418189878
+Thailand,Rice - Wholesale,11.2262,7,2014,KG,1.8951418189878
+Thailand,Rice - Wholesale,11.6711,8,2014,KG,1.8951418189878
+Thailand,Rice - Wholesale,11.5909,9,2014,KG,1.8951418189878
+Thailand,Rice - Wholesale,11.6909,10,2014,KG,1.8951418189878
+Thailand,Rice - Wholesale,11.4675,11,2014,KG,1.8951418189878
+Thailand,Rice - Wholesale,11.485,12,2014,KG,1.8951418189878
+Thailand,Rice - Wholesale,11.49,1,2015,KG,-0.900424963291569
+Thailand,Rice - Wholesale,11.35,2,2015,KG,-0.900424963291569
+Thailand,Rice - Wholesale,11.1119,3,2015,KG,-0.900424963291569
+Thailand,Rice - Wholesale,10.8556,4,2015,KG,-0.900424963291569
+Thailand,Rice - Wholesale,10.85,5,2015,KG,-0.900424963291569
+Thailand,Rice - Wholesale,10.7738,6,2015,KG,-0.900424963291569
+Thailand,Rice - Wholesale,11.3214,7,2015,KG,-0.900424963291569
+Thailand,Rice - Wholesale,11.25,8,2015,KG,-0.900424963291569
+Thailand,Rice - Wholesale,10.9409,9,2015,KG,-0.900424963291569
+Thailand,Rice - Wholesale,11.4214,10,2015,KG,-0.900424963291569
+Thailand,Rice - Wholesale,11.3881,11,2015,KG,-0.900424963291569
+Thailand,Rice - Wholesale,11.185,12,2015,KG,-0.900424963291569
+Thailand,Rice - Wholesale,11.485,1,2016,KG,0.188149704448143
+Thailand,Rice - Wholesale,11.61,2,2016,KG,0.188149704448143
+Thailand,Rice - Wholesale,11.55,3,2016,KG,0.188149704448143
+Thailand,Rice - Wholesale,11.7676,4,2016,KG,0.188149704448143
+Thailand,Rice - Wholesale,12.7167,5,2016,KG,0.188149704448143
+Thailand,Rice - Wholesale,12.9091,6,2016,KG,0.188149704448143
+Thailand,Rice - Wholesale,12.95,7,2016,KG,0.188149704448143
+Thailand,Rice - Wholesale,12.227,8,2016,KG,0.188149704448143
+Thailand,Rice - Wholesale,11.5864,9,2016,KG,0.188149704448143
+Thailand,Rice - Wholesale,11.24,10,2016,KG,0.188149704448143
+Thailand,Rice - Wholesale,10.8909,11,2016,KG,0.188149704448143
+Thailand,Rice - Wholesale,11.415,12,2016,KG,0.188149704448143
+Thailand,Rice - Wholesale,11.51,1,2017,KG,0.665631893135106
+Thailand,Rice - Wholesale,11.1342,2,2017,KG,0.665631893135106
+Thailand,Rice - Wholesale,11.022,3,2017,KG,0.665631893135106
+Thailand,Rice - Wholesale,11.2125,4,2017,KG,0.665631893135106
+Thailand,Rice - Wholesale,12.1024,5,2017,KG,0.665631893135106
+Thailand,Rice - Wholesale,13.2227,6,2017,KG,0.665631893135106
+Thailand,Rice - Wholesale,11.8868,7,2017,KG,0.665631893135106
+Thailand,Rice - Wholesale,10.7136,8,2017,KG,0.665631893135106
+Thailand,Rice - Wholesale,10.8929,9,2017,KG,0.665631893135106
+Thailand,Rice - Wholesale,10.9237,10,2017,KG,0.665631893135106
+Thailand,Rice - Wholesale,10.9132,11,2017,KG,0.665631893135106
+Thailand,Rice - Wholesale,10.7868,12,2017,KG,0.665631893135106
+Thailand,Rice - Wholesale,11.3786,1,2018,KG,1.06389754183024
+Thailand,Rice - Wholesale,10.98,2,2018,KG,1.06389754183024
+Thailand,Rice - Wholesale,11.1548,3,2018,KG,1.06389754183024
+Thailand,Rice - Wholesale,11.9971,4,2018,KG,1.06389754183024
+Thailand,Rice - Wholesale,12.1071,5,2018,KG,1.06389754183024
+Thailand,Rice - Wholesale,11.5595,6,2018,KG,1.06389754183024
+Thailand,Rice - Wholesale,10.95,7,2018,KG,1.06389754183024
+Thailand,Rice - Wholesale,10.9955,8,2018,KG,1.06389754183024
+Thailand,Rice - Wholesale,10.95,9,2018,KG,1.06389754183024
+Thailand,Rice - Wholesale,11.1024,10,2018,KG,1.06389754183024
+Thailand,Rice - Wholesale,11.05,11,2018,KG,1.06389754183024
+Thailand,Rice - Wholesale,11.05,12,2018,KG,1.06389754183024
+Thailand,Rice - Wholesale,10.9182,1,2019,KG,0.706728601314311
+Thailand,Rice - Wholesale,10.7132,2,2019,KG,0.706728601314311
+Thailand,Rice - Wholesale,10.65,3,2019,KG,0.706728601314311
+Thailand,Rice - Wholesale,11.056,4,2019,KG,0.706728601314311
+Thailand,Rice - Wholesale,10.95,5,2019,KG,0.706728601314311
+Thailand,Rice - Wholesale,10.9447,6,2019,KG,0.706728601314311
+Thailand,Rice - Wholesale,10.6,7,2019,KG,0.706728601314311
+Thailand,Rice - Wholesale,11.0643,8,2019,KG,0.706728601314311
+Thailand,Rice - Wholesale,10.85,9,2019,KG,0.706728601314311
+Thailand,Rice - Wholesale,10.7024,10,2019,KG,0.706728601314311
+Thailand,Rice - Wholesale,10.5868,11,2019,KG,0.706728601314311
+Thailand,Rice - Wholesale,10.8278,12,2019,KG,0.706728601314311
+Thailand,Rice - Wholesale,11.5136,1,2020,KG,-0.845937147357041
+Thailand,Rice - Wholesale,11.8816,2,2020,KG,-0.845937147357041
+Thailand,Rice - Wholesale,13.6182,3,2020,KG,-0.845937147357041
+Thailand,Cassava flour - Wholesale,5.45,1,2000,KG,1.59196917460972
+Thailand,Cassava flour - Wholesale,5.0,2,2000,KG,1.59196917460972
+Thailand,Cassava flour - Wholesale,4.95,3,2000,KG,1.59196917460972
+Thailand,Cassava flour - Wholesale,5.4,4,2000,KG,1.59196917460972
+Thailand,Cassava flour - Wholesale,5.45,5,2000,KG,1.59196917460972
+Thailand,Cassava flour - Wholesale,5.25,6,2000,KG,1.59196917460972
+Thailand,Cassava flour - Wholesale,5.25,7,2000,KG,1.59196917460972
+Thailand,Cassava flour - Wholesale,5.2,8,2000,KG,1.59196917460972
+Thailand,Cassava flour - Wholesale,5.0,9,2000,KG,1.59196917460972
+Thailand,Cassava flour - Wholesale,5.0,10,2000,KG,1.59196917460972
+Thailand,Cassava flour - Wholesale,5.05,11,2000,KG,1.59196917460972
+Thailand,Cassava flour - Wholesale,5.3,12,2000,KG,1.59196917460972
+Thailand,Cassava flour - Wholesale,5.4,1,2001,KG,1.62690887314091
+Thailand,Cassava flour - Wholesale,5.45,2,2001,KG,1.62690887314091
+Thailand,Cassava flour - Wholesale,5.8,3,2001,KG,1.62690887314091
+Thailand,Cassava flour - Wholesale,6.35,4,2001,KG,1.62690887314091
+Thailand,Cassava flour - Wholesale,7.0,5,2001,KG,1.62690887314091
+Thailand,Cassava flour - Wholesale,7.875,6,2001,KG,1.62690887314091
+Thailand,Cassava flour - Wholesale,8.25,7,2001,KG,1.62690887314091
+Thailand,Cassava flour - Wholesale,7.625,8,2001,KG,1.62690887314091
+Thailand,Cassava flour - Wholesale,7.0,9,2001,KG,1.62690887314091
+Thailand,Cassava flour - Wholesale,7.1,10,2001,KG,1.62690887314091
+Thailand,Cassava flour - Wholesale,7.15,11,2001,KG,1.62690887314091
+Thailand,Cassava flour - Wholesale,7.1,12,2001,KG,1.62690887314091
+Thailand,Cassava flour - Wholesale,7.1,1,2002,KG,0.697308976625449
+Thailand,Cassava flour - Wholesale,7.375,2,2002,KG,0.697308976625449
+Thailand,Cassava flour - Wholesale,7.775,3,2002,KG,0.697308976625449
+Thailand,Cassava flour - Wholesale,8.125,4,2002,KG,0.697308976625449
+Thailand,Cassava flour - Wholesale,8.025,5,2002,KG,0.697308976625449
+Thailand,Cassava flour - Wholesale,7.525,6,2002,KG,0.697308976625449
+Thailand,Cassava flour - Wholesale,7.15,7,2002,KG,0.697308976625449
+Thailand,Cassava flour - Wholesale,6.825,8,2002,KG,0.697308976625449
+Thailand,Cassava flour - Wholesale,6.75,9,2002,KG,0.697308976625449
+Thailand,Cassava flour - Wholesale,6.475,10,2002,KG,0.697308976625449
+Thailand,Cassava flour - Wholesale,6.4,11,2002,KG,0.697308976625449
+Thailand,Cassava flour - Wholesale,6.65,12,2002,KG,0.697308976625449
+Thailand,Cassava flour - Wholesale,6.7,1,2003,KG,1.80434994635721
+Thailand,Cassava flour - Wholesale,6.925,2,2003,KG,1.80434994635721
+Thailand,Cassava flour - Wholesale,7.0,3,2003,KG,1.80434994635721
+Thailand,Cassava flour - Wholesale,6.875,4,2003,KG,1.80434994635721
+Thailand,Cassava flour - Wholesale,6.575,5,2003,KG,1.80434994635721
+Thailand,Cassava flour - Wholesale,6.275,6,2003,KG,1.80434994635721
+Thailand,Cassava flour - Wholesale,6.0,7,2003,KG,1.80434994635721
+Thailand,Cassava flour - Wholesale,6.0,8,2003,KG,1.80434994635721
+Thailand,Cassava flour - Wholesale,6.0,9,2003,KG,1.80434994635721
+Thailand,Cassava flour - Wholesale,5.9,10,2003,KG,1.80434994635721
+Thailand,Cassava flour - Wholesale,6.025,11,2003,KG,1.80434994635721
+Thailand,Cassava flour - Wholesale,6.35,12,2003,KG,1.80434994635721
+Thailand,Cassava flour - Wholesale,6.275,1,2004,KG,2.7591492623108
+Thailand,Cassava flour - Wholesale,5.9,2,2004,KG,2.7591492623108
+Thailand,Cassava flour - Wholesale,6.05,3,2004,KG,2.7591492623108
+Thailand,Cassava flour - Wholesale,6.575,4,2004,KG,2.7591492623108
+Thailand,Cassava flour - Wholesale,6.975,5,2004,KG,2.7591492623108
+Thailand,Cassava flour - Wholesale,7.2,6,2004,KG,2.7591492623108
+Thailand,Cassava flour - Wholesale,7.3,7,2004,KG,2.7591492623108
+Thailand,Cassava flour - Wholesale,7.375,8,2004,KG,2.7591492623108
+Thailand,Cassava flour - Wholesale,7.2,9,2004,KG,2.7591492623108
+Thailand,Cassava flour - Wholesale,7.1,10,2004,KG,2.7591492623108
+Thailand,Cassava flour - Wholesale,7.375,11,2004,KG,2.7591492623108
+Thailand,Cassava flour - Wholesale,7.575,12,2004,KG,2.7591492623108
+Thailand,Cassava flour - Wholesale,8.4,1,2005,KG,4.54036919634535
+Thailand,Cassava flour - Wholesale,8.85,2,2005,KG,4.54036919634535
+Thailand,Cassava flour - Wholesale,10.075,3,2005,KG,4.54036919634535
+Thailand,Cassava flour - Wholesale,10.6,4,2005,KG,4.54036919634535
+Thailand,Cassava flour - Wholesale,10.25,5,2005,KG,4.54036919634535
+Thailand,Cassava flour - Wholesale,9.75,6,2005,KG,4.54036919634535
+Thailand,Cassava flour - Wholesale,9.762,7,2005,KG,4.54036919634535
+Thailand,Cassava flour - Wholesale,8.65,8,2005,KG,4.54036919634535
+Thailand,Cassava flour - Wholesale,8.5,9,2005,KG,4.54036919634535
+Thailand,Cassava flour - Wholesale,8.4,10,2005,KG,4.54036919634535
+Thailand,Cassava flour - Wholesale,8.475,11,2005,KG,4.54036919634535
+Thailand,Cassava flour - Wholesale,8.55,12,2005,KG,4.54036919634535
+Thailand,Cassava flour - Wholesale,8.2,1,2006,KG,4.63747436011765
+Thailand,Cassava flour - Wholesale,8.175,2,2006,KG,4.63747436011765
+Thailand,Cassava flour - Wholesale,8.05,3,2006,KG,4.63747436011765
+Thailand,Cassava flour - Wholesale,7.7,4,2006,KG,4.63747436011765
+Thailand,Cassava flour - Wholesale,7.5,5,2006,KG,4.63747436011765
+Thailand,Cassava flour - Wholesale,7.5,6,2006,KG,4.63747436011765
+Thailand,Cassava flour - Wholesale,7.225,7,2006,KG,4.63747436011765
+Thailand,Cassava flour - Wholesale,7.075,8,2006,KG,4.63747436011765
+Thailand,Cassava flour - Wholesale,7.0,9,2006,KG,4.63747436011765
+Thailand,Cassava flour - Wholesale,7.15,10,2006,KG,4.63747436011765
+Thailand,Cassava flour - Wholesale,7.875,11,2006,KG,4.63747436011765
+Thailand,Cassava flour - Wholesale,8.1,12,2006,KG,4.63747436011765
+Thailand,Cassava flour - Wholesale,8.25,1,2007,KG,2.24154095286803
+Thailand,Cassava flour - Wholesale,8.263,2,2007,KG,2.24154095286803
+Thailand,Cassava flour - Wholesale,8.25,3,2007,KG,2.24154095286803
+Thailand,Cassava flour - Wholesale,8.4,4,2007,KG,2.24154095286803
+Thailand,Cassava flour - Wholesale,9.625,5,2007,KG,2.24154095286803
+Thailand,Cassava flour - Wholesale,10.45,6,2007,KG,2.24154095286803
+Thailand,Cassava flour - Wholesale,10.667,7,2007,KG,2.24154095286803
+Thailand,Cassava flour - Wholesale,10.5,8,2007,KG,2.24154095286803
+Thailand,Cassava flour - Wholesale,10.55,9,2007,KG,2.24154095286803
+Thailand,Cassava flour - Wholesale,10.75,10,2007,KG,2.24154095286803
+Thailand,Cassava flour - Wholesale,11.2,11,2007,KG,2.24154095286803
+Thailand,Cassava flour - Wholesale,11.25,12,2007,KG,2.24154095286803
+Thailand,Cassava flour - Wholesale,11.5,1,2008,KG,5.46848949649845
+Thailand,Cassava flour - Wholesale,12.0,2,2008,KG,5.46848949649845
+Thailand,Cassava flour - Wholesale,12.325,3,2008,KG,5.46848949649845
+Thailand,Cassava flour - Wholesale,12.35,4,2008,KG,5.46848949649845
+Thailand,Cassava flour - Wholesale,12.25,5,2008,KG,5.46848949649845
+Thailand,Cassava flour - Wholesale,11.875,6,2008,KG,5.46848949649845
+Thailand,Cassava flour - Wholesale,11.575,7,2008,KG,5.46848949649845
+Thailand,Cassava flour - Wholesale,9.925,8,2008,KG,5.46848949649845
+Thailand,Cassava flour - Wholesale,9.45,9,2008,KG,5.46848949649845
+Thailand,Cassava flour - Wholesale,9.175,10,2008,KG,5.46848949649845
+Thailand,Cassava flour - Wholesale,9.1,11,2008,KG,5.46848949649845
+Thailand,Cassava flour - Wholesale,8.5,12,2008,KG,5.46848949649845
+Thailand,Cassava flour - Wholesale,7.985,1,2009,KG,-0.845716092316721
+Thailand,Cassava flour - Wholesale,7.7,2,2009,KG,-0.845716092316721
+Thailand,Cassava flour - Wholesale,8.075,3,2009,KG,-0.845716092316721
+Thailand,Cassava flour - Wholesale,8.425,4,2009,KG,-0.845716092316721
+Thailand,Cassava flour - Wholesale,8.575,5,2009,KG,-0.845716092316721
+Thailand,Cassava flour - Wholesale,8.638,6,2009,KG,-0.845716092316721
+Thailand,Cassava flour - Wholesale,8.625,7,2009,KG,-0.845716092316721
+Thailand,Cassava flour - Wholesale,8.65,8,2009,KG,-0.845716092316721
+Thailand,Cassava flour - Wholesale,8.775,9,2009,KG,-0.845716092316721
+Thailand,Cassava flour - Wholesale,9.5,10,2009,KG,-0.845716092316721
+Thailand,Cassava flour - Wholesale,11.15,11,2009,KG,-0.845716092316721
+Thailand,Cassava flour - Wholesale,12.25,12,2009,KG,-0.845716092316721
+Thailand,Cassava flour - Wholesale,12.6,1,2010,KG,3.24758842443723
+Thailand,Cassava flour - Wholesale,12.6,2,2010,KG,3.24758842443723
+Thailand,Cassava flour - Wholesale,13.8,3,2010,KG,3.24758842443723
+Thailand,Cassava flour - Wholesale,14.8,4,2010,KG,3.24758842443723
+Thailand,Cassava flour - Wholesale,15.25,5,2010,KG,3.24758842443723
+Thailand,Cassava flour - Wholesale,16.625,6,2010,KG,3.24758842443723
+Thailand,Cassava flour - Wholesale,19.0,7,2010,KG,3.24758842443723
+Thailand,Cassava flour - Wholesale,17.925,8,2010,KG,3.24758842443723
+Thailand,Cassava flour - Wholesale,15.75,9,2010,KG,3.24758842443723
+Thailand,Cassava flour - Wholesale,15.75,10,2010,KG,3.24758842443723
+Thailand,Cassava flour - Wholesale,16.1,11,2010,KG,3.24758842443723
+Thailand,Cassava flour - Wholesale,16.1,12,2010,KG,3.24758842443723
+Thailand,Cassava flour - Wholesale,16.0,1,2011,KG,3.80879058139634
+Thailand,Cassava flour - Wholesale,16.3,2,2011,KG,3.80879058139634
+Thailand,Cassava flour - Wholesale,16.5,3,2011,KG,3.80879058139634
+Thailand,Cassava flour - Wholesale,16.2,4,2011,KG,3.80879058139634
+Thailand,Cassava flour - Wholesale,15.4,5,2011,KG,3.80879058139634
+Thailand,Cassava flour - Wholesale,14.65,6,2011,KG,3.80879058139634
+Thailand,Cassava flour - Wholesale,13.275,7,2011,KG,3.80879058139634
+Thailand,Cassava flour - Wholesale,12.45,8,2011,KG,3.80879058139634
+Thailand,Cassava flour - Wholesale,12.2,9,2011,KG,3.80879058139634
+Thailand,Cassava flour - Wholesale,12.75,10,2011,KG,3.80879058139634
+Thailand,Cassava flour - Wholesale,13.35,11,2011,KG,3.80879058139634
+Thailand,Cassava flour - Wholesale,13.175,12,2011,KG,3.80879058139634
+Thailand,Cassava flour - Wholesale,12.775,1,2012,KG,3.01489950334985
+Thailand,Cassava flour - Wholesale,12.8,2,2012,KG,3.01489950334985
+Thailand,Cassava flour - Wholesale,12.2,3,2012,KG,3.01489950334985
+Thailand,Cassava flour - Wholesale,12.65,4,2012,KG,3.01489950334985
+Thailand,Cassava flour - Wholesale,13.0,5,2012,KG,3.01489950334985
+Thailand,Cassava flour - Wholesale,13.2,6,2012,KG,3.01489950334985
+Thailand,Cassava flour - Wholesale,13.2,7,2012,KG,3.01489950334985
+Thailand,Cassava flour - Wholesale,13.2,8,2012,KG,3.01489950334985
+Thailand,Cassava flour - Wholesale,13.2,9,2012,KG,3.01489950334985
+Thailand,Cassava flour - Wholesale,13.25,10,2012,KG,3.01489950334985
+Thailand,Cassava flour - Wholesale,13.3,11,2012,KG,3.01489950334985
+Thailand,Cassava flour - Wholesale,13.1,12,2012,KG,3.01489950334985
+Thailand,Cassava flour - Wholesale,12.95,1,2013,KG,2.18488618530687
+Thailand,Cassava flour - Wholesale,12.95,2,2013,KG,2.18488618530687
+Thailand,Cassava flour - Wholesale,13.15,3,2013,KG,2.18488618530687
+Thailand,Cassava flour - Wholesale,13.65,4,2013,KG,2.18488618530687
+Thailand,Cassava flour - Wholesale,14.35,5,2013,KG,2.18488618530687
+Thailand,Cassava flour - Wholesale,14.5,6,2013,KG,2.18488618530687
+Thailand,Cassava flour - Wholesale,14.4,7,2013,KG,2.18488618530687
+Thailand,Cassava flour - Wholesale,13.875,8,2013,KG,2.18488618530687
+Thailand,Cassava flour - Wholesale,13.475,9,2013,KG,2.18488618530687
+Thailand,Cassava flour - Wholesale,13.4,10,2013,KG,2.18488618530687
+Thailand,Cassava flour - Wholesale,13.35,11,2013,KG,2.18488618530687
+Thailand,Cassava flour - Wholesale,12.725,12,2013,KG,2.18488618530687
+Thailand,Cassava flour - Wholesale,12.6,1,2014,KG,1.8951418189878
+Thailand,Cassava flour - Wholesale,12.95,2,2014,KG,1.8951418189878
+Thailand,Cassava flour - Wholesale,13.25,3,2014,KG,1.8951418189878
+Thailand,Cassava flour - Wholesale,13.25,4,2014,KG,1.8951418189878
+Thailand,Cassava flour - Wholesale,13.25,5,2014,KG,1.8951418189878
+Thailand,Cassava flour - Wholesale,13.1,6,2014,KG,1.8951418189878
+Thailand,Cassava flour - Wholesale,12.9,7,2014,KG,1.8951418189878
+Thailand,Cassava flour - Wholesale,12.85,8,2014,KG,1.8951418189878
+Thailand,Cassava flour - Wholesale,13.15,9,2014,KG,1.8951418189878
+Thailand,Cassava flour - Wholesale,13.15,10,2014,KG,1.8951418189878
+Thailand,Cassava flour - Wholesale,13.125,11,2014,KG,1.8951418189878
+Thailand,Cassava flour - Wholesale,13.025,12,2014,KG,1.8951418189878
+Thailand,Cassava flour - Wholesale,12.9,1,2015,KG,-0.900424963291569
+Thailand,Cassava flour - Wholesale,12.9,2,2015,KG,-0.900424963291569
+Thailand,Cassava flour - Wholesale,13.1,3,2015,KG,-0.900424963291569
+Thailand,Cassava flour - Wholesale,13.35,4,2015,KG,-0.900424963291569
+Thailand,Cassava flour - Wholesale,13.475,5,2015,KG,-0.900424963291569
+Thailand,Cassava flour - Wholesale,13.75,6,2015,KG,-0.900424963291569
+Thailand,Cassava flour - Wholesale,14.125,7,2015,KG,-0.900424963291569
+Thailand,Cassava flour - Wholesale,14.125,8,2015,KG,-0.900424963291569
+Thailand,Cassava flour - Wholesale,13.9,9,2015,KG,-0.900424963291569
+Thailand,Cassava flour - Wholesale,13.75,10,2015,KG,-0.900424963291569
+Thailand,Cassava flour - Wholesale,12.95,11,2015,KG,-0.900424963291569
+Thailand,Cassava flour - Wholesale,12.4,12,2015,KG,-0.900424963291569
+Thailand,Cassava flour - Wholesale,12.0,1,2016,KG,0.188149704448143
+Thailand,Cassava flour - Wholesale,11.9,2,2016,KG,0.188149704448143
+Thailand,Cassava flour - Wholesale,12.2,3,2016,KG,0.188149704448143
+Thailand,Cassava flour - Wholesale,12.45,4,2016,KG,0.188149704448143
+Thailand,Cassava flour - Wholesale,12.85,5,2016,KG,0.188149704448143
+Thailand,Cassava flour - Wholesale,12.75,6,2016,KG,0.188149704448143
+Thailand,Cassava flour - Wholesale,12.2,7,2016,KG,0.188149704448143
+Thailand,Cassava flour - Wholesale,11.275,8,2016,KG,0.188149704448143
+Thailand,Cassava flour - Wholesale,10.15,9,2016,KG,0.188149704448143
+Thailand,Cassava flour - Wholesale,9.9,10,2016,KG,0.188149704448143
+Thailand,Cassava flour - Wholesale,10.3,11,2016,KG,0.188149704448143
+Thailand,Cassava flour - Wholesale,10.625,12,2016,KG,0.188149704448143
+Thailand,Cassava flour - Wholesale,10.4,1,2017,KG,0.665631893135106
+Thailand,Cassava flour - Wholesale,10.45,2,2017,KG,0.665631893135106
+Thailand,Cassava flour - Wholesale,10.6,3,2017,KG,0.665631893135106
+Thailand,Cassava flour - Wholesale,10.5,4,2017,KG,0.665631893135106
+Thailand,Cassava flour - Wholesale,10.4,5,2017,KG,0.665631893135106
+Thailand,Cassava flour - Wholesale,10.4,6,2017,KG,0.665631893135106
+Thailand,Cassava flour - Wholesale,10.4,7,2017,KG,0.665631893135106
+Thailand,Cassava flour - Wholesale,10.4,8,2017,KG,0.665631893135106
+Thailand,Cassava flour - Wholesale,10.65,9,2017,KG,0.665631893135106
+Thailand,Cassava flour - Wholesale,11.275,10,2017,KG,0.665631893135106
+Thailand,Cassava flour - Wholesale,12.6,11,2017,KG,0.665631893135106
+Thailand,Cassava flour - Wholesale,13.1,12,2017,KG,0.665631893135106
+Thailand,Cassava flour - Wholesale,13.4,1,2018,KG,1.06389754183024
+Thailand,Cassava flour - Wholesale,14.05,2,2018,KG,1.06389754183024
+Thailand,Cassava flour - Wholesale,15.425,3,2018,KG,1.06389754183024
+Thailand,Cassava flour - Wholesale,16.25,4,2018,KG,1.06389754183024
+Thailand,Cassava flour - Wholesale,16.5,5,2018,KG,1.06389754183024
+Thailand,Cassava flour - Wholesale,15.7,6,2018,KG,1.06389754183024
+Thailand,Cassava flour - Wholesale,15.1,7,2018,KG,1.06389754183024
+Thailand,Cassava flour - Wholesale,15.1,8,2018,KG,1.06389754183024
+Thailand,Cassava flour - Wholesale,15.35,9,2018,KG,1.06389754183024
+Thailand,Cassava flour - Wholesale,15.35,10,2018,KG,1.06389754183024
+Thailand,Cassava flour - Wholesale,14.8,11,2018,KG,1.06389754183024
+Thailand,Cassava flour - Wholesale,14.1,12,2018,KG,1.06389754183024
+Thailand,Cassava flour - Wholesale,13.8,1,2019,KG,0.706728601314311
+Thailand,Cassava flour - Wholesale,13.7,2,2019,KG,0.706728601314311
+Thailand,Cassava flour - Wholesale,13.725,3,2019,KG,0.706728601314311
+Thailand,Cassava flour - Wholesale,13.75,4,2019,KG,0.706728601314311
+Thailand,Cassava flour - Wholesale,13.45,5,2019,KG,0.706728601314311
+Thailand,Cassava flour - Wholesale,13.025,7,2019,KG,0.706728601314311
+Thailand,Cassava flour - Wholesale,13.1,8,2019,KG,0.706728601314311
+Thailand,Cassava flour - Wholesale,13.1,9,2019,KG,0.706728601314311
+Thailand,Cassava flour - Wholesale,13.1,10,2019,KG,0.706728601314311
+Thailand,Cassava flour - Wholesale,13.1,11,2019,KG,0.706728601314311
+Thailand,Cassava flour - Wholesale,12.975,12,2019,KG,0.706728601314311
+Thailand,Cassava flour - Wholesale,12.775,1,2020,KG,-0.845937147357041
+Thailand,Meat (chicken) - Wholesale,55.5,1,2010,KG,3.24758842443723
+Thailand,Meat (chicken) - Wholesale,57.3,2,2010,KG,3.24758842443723
+Thailand,Meat (chicken) - Wholesale,53.89,3,2010,KG,3.24758842443723
+Thailand,Meat (chicken) - Wholesale,48.26,4,2010,KG,3.24758842443723
+Thailand,Meat (chicken) - Wholesale,57.61,5,2010,KG,3.24758842443723
+Thailand,Meat (chicken) - Wholesale,54.8,6,2010,KG,3.24758842443723
+Thailand,Meat (chicken) - Wholesale,47.6,7,2010,KG,3.24758842443723
+Thailand,Meat (chicken) - Wholesale,48.13,8,2010,KG,3.24758842443723
+Thailand,Meat (chicken) - Wholesale,48.25,9,2010,KG,3.24758842443723
+Thailand,Meat (chicken) - Wholesale,46.9,10,2010,KG,3.24758842443723
+Thailand,Meat (chicken) - Wholesale,49.05,11,2010,KG,3.24758842443723
+Thailand,Meat (chicken) - Wholesale,55.7,12,2010,KG,3.24758842443723
+Thailand,Meat (chicken) - Wholesale,57.8,1,2011,KG,3.80879058139634
+Thailand,Meat (chicken) - Wholesale,59.11,2,2011,KG,3.80879058139634
+Thailand,Meat (chicken) - Wholesale,59.43,3,2011,KG,3.80879058139634
+Thailand,Meat (chicken) - Wholesale,65.15,4,2011,KG,3.80879058139634
+Thailand,Meat (chicken) - Wholesale,67.33,5,2011,KG,3.80879058139634
+Thailand,Meat (chicken) - Wholesale,63.86,6,2011,KG,3.80879058139634
+Thailand,Meat (chicken) - Wholesale,55.79,7,2011,KG,3.80879058139634
+Thailand,Meat (chicken) - Wholesale,53.36,8,2011,KG,3.80879058139634
+Thailand,Meat (chicken) - Wholesale,55.32,9,2011,KG,3.80879058139634
+Thailand,Meat (chicken) - Wholesale,54.5,10,2011,KG,3.80879058139634
+Thailand,Meat (chicken) - Wholesale,54.5,11,2011,KG,3.80879058139634
+Thailand,Meat (chicken) - Wholesale,54.5,12,2011,KG,3.80879058139634
+Thailand,Meat (chicken) - Wholesale,54.3,1,2012,KG,3.01489950334985
+Thailand,Meat (chicken) - Wholesale,51.33,2,2012,KG,3.01489950334985
+Thailand,Meat (chicken) - Wholesale,43.29,3,2012,KG,3.01489950334985
+Thailand,Meat (chicken) - Wholesale,47.35,4,2012,KG,3.01489950334985
+Thailand,Meat (chicken) - Wholesale,53.5,5,2012,KG,3.01489950334985
+Thailand,Meat (chicken) - Wholesale,52.67,6,2012,KG,3.01489950334985
+Thailand,Meat (chicken) - Wholesale,49.98,7,2012,KG,3.01489950334985
+Thailand,Meat (chicken) - Wholesale,46.0,8,2012,KG,3.01489950334985
+Thailand,Meat (chicken) - Wholesale,46.0,9,2012,KG,3.01489950334985
+Thailand,Meat (chicken) - Wholesale,46.41,10,2012,KG,3.01489950334985
+Thailand,Meat (chicken) - Wholesale,52.86,11,2012,KG,3.01489950334985
+Thailand,Meat (chicken) - Wholesale,55.11,12,2012,KG,3.01489950334985
+Thailand,Meat (chicken) - Wholesale,53.84,1,2013,KG,2.18488618530687
+Thailand,Meat (chicken) - Wholesale,48.26,2,2013,KG,2.18488618530687
+Thailand,Meat (chicken) - Wholesale,51.62,3,2013,KG,2.18488618530687
+Thailand,Meat (chicken) - Wholesale,58.61,4,2013,KG,2.18488618530687
+Thailand,Meat (chicken) - Wholesale,60.5,5,2013,KG,2.18488618530687
+Thailand,Meat (chicken) - Wholesale,59.5,6,2013,KG,2.18488618530687
+Thailand,Meat (chicken) - Wholesale,61.0,7,2013,KG,2.18488618530687
+Thailand,Meat (chicken) - Wholesale,61.0,8,2013,KG,2.18488618530687
+Thailand,Meat (chicken) - Wholesale,58.52,9,2013,KG,2.18488618530687
+Thailand,Meat (chicken) - Wholesale,51.68,10,2013,KG,2.18488618530687
+Thailand,Meat (chicken) - Wholesale,51.0,11,2013,KG,2.18488618530687
+Thailand,Meat (chicken) - Wholesale,53.5,12,2013,KG,2.18488618530687
+Thailand,Meat (chicken) - Wholesale,56.68,1,2014,KG,1.8951418189878
+Thailand,Meat (chicken) - Wholesale,59.0,2,2014,KG,1.8951418189878
+Thailand,Meat (chicken) - Wholesale,56.38,3,2014,KG,1.8951418189878
+Thailand,Meat (chicken) - Wholesale,54.0,4,2014,KG,1.8951418189878
+Thailand,Meat (chicken) - Wholesale,53.68,5,2014,KG,1.8951418189878
+Thailand,Meat (chicken) - Wholesale,54.0,6,2014,KG,1.8951418189878
+Thailand,Meat (chicken) - Wholesale,56.86,7,2014,KG,1.8951418189878
+Thailand,Meat (chicken) - Wholesale,58.53,8,2014,KG,1.8951418189878
+Thailand,Meat (chicken) - Wholesale,59.0,9,2014,KG,1.8951418189878
+Thailand,Meat (chicken) - Wholesale,57.27,10,2014,KG,1.8951418189878
+Thailand,Meat (chicken) - Wholesale,57.0,11,2014,KG,1.8951418189878
+Thailand,Meat (chicken) - Wholesale,57.0,12,2014,KG,1.8951418189878
+Thailand,Meat (chicken) - Wholesale,53.45,1,2015,KG,-0.900424963291569
+Thailand,Meat (chicken) - Wholesale,47.5,2,2015,KG,-0.900424963291569
+Thailand,Meat (chicken) - Wholesale,47.0,3,2015,KG,-0.900424963291569
+Thailand,Meat (chicken) - Wholesale,47.67,4,2015,KG,-0.900424963291569
+Thailand,Meat (chicken) - Wholesale,49.0,5,2015,KG,-0.900424963291569
+Thailand,Meat (chicken) - Wholesale,49.0,6,2015,KG,-0.900424963291569
+Thailand,Meat (chicken) - Wholesale,49.0,7,2015,KG,-0.900424963291569
+Thailand,Meat (chicken) - Wholesale,49.6,8,2015,KG,-0.900424963291569
+Thailand,Meat (chicken) - Wholesale,49.61,9,2015,KG,-0.900424963291569
+Thailand,Meat (chicken) - Wholesale,46.5,10,2015,KG,-0.900424963291569
+Thailand,Meat (chicken) - Wholesale,48.86,11,2015,KG,-0.900424963291569
+Thailand,Meat (chicken) - Wholesale,51.8,12,2015,KG,-0.900424963291569
+Thailand,Meat (chicken) - Wholesale,53.0,1,2016,KG,0.188149704448143
+Thailand,Meat (chicken) - Wholesale,53.0,2,2016,KG,0.188149704448143
+Thailand,Meat (chicken) - Wholesale,53.0,3,2016,KG,0.188149704448143
+Thailand,Meat (chicken) - Wholesale,51.59,4,2016,KG,0.188149704448143
+Thailand,Meat (chicken) - Wholesale,50.22,5,2016,KG,0.188149704448143
+Thailand,Meat (chicken) - Wholesale,48.05,6,2016,KG,0.188149704448143
+Thailand,Meat (chicken) - Wholesale,48.69,7,2016,KG,0.188149704448143
+Thailand,Meat (chicken) - Wholesale,55.09,8,2016,KG,0.188149704448143
+Thailand,Meat (chicken) - Wholesale,54.73,9,2016,KG,0.188149704448143
+Thailand,Meat (chicken) - Wholesale,47.0,10,2016,KG,0.188149704448143
+Thailand,Meat (chicken) - Wholesale,47.55,11,2016,KG,0.188149704448143
+Thailand,Meat (chicken) - Wholesale,48.0,12,2016,KG,0.188149704448143
+Thailand,Meat (chicken) - Wholesale,49.35,1,2017,KG,0.665631893135106
+Thailand,Meat (chicken) - Wholesale,51.0,2,2017,KG,0.665631893135106
+Thailand,Meat (chicken) - Wholesale,51.0,3,2017,KG,0.665631893135106
+Thailand,Meat (chicken) - Wholesale,52.31,4,2017,KG,0.665631893135106
+Thailand,Meat (chicken) - Wholesale,53.5,5,2017,KG,0.665631893135106
+Thailand,Meat (chicken) - Wholesale,51.23,6,2017,KG,0.665631893135106
+Thailand,Meat (chicken) - Wholesale,49.26,7,2017,KG,0.665631893135106
+Thailand,Meat (chicken) - Wholesale,48.59,8,2017,KG,0.665631893135106
+Thailand,Meat (chicken) - Wholesale,49.5,9,2017,KG,0.665631893135106
+Thailand,Meat (chicken) - Wholesale,47.18,10,2017,KG,0.665631893135106
+Thailand,Meat (chicken) - Wholesale,45.0,11,2017,KG,0.665631893135106
+Thailand,Meat (chicken) - Wholesale,44.47,12,2017,KG,0.665631893135106
+Thailand,Meat (chicken) - Wholesale,44.0,1,2018,KG,1.06389754183024
+Thailand,Meat (chicken) - Wholesale,44.0,2,2018,KG,1.06389754183024
+Thailand,Meat (chicken) - Wholesale,44.0,3,2018,KG,1.06389754183024
+Thailand,Meat (chicken) - Wholesale,42.85,4,2018,KG,1.06389754183024
+Thailand,Meat (chicken) - Wholesale,42.5,5,2018,KG,1.06389754183024
+Thailand,Meat (chicken) - Wholesale,42.5,6,2018,KG,1.06389754183024
+Thailand,Meat (chicken) - Wholesale,43.75,7,2018,KG,1.06389754183024
+Thailand,Meat (chicken) - Wholesale,49.14,8,2018,KG,1.06389754183024
+Thailand,Meat (chicken) - Wholesale,48.2,9,2018,KG,1.06389754183024
+Thailand,Meat (chicken) - Wholesale,44.5,10,2018,KG,1.06389754183024
+Thailand,Meat (chicken) - Wholesale,44.5,11,2018,KG,1.06389754183024
+Thailand,Meat (chicken) - Wholesale,44.5,12,2018,KG,1.06389754183024
+Thailand,Meat (chicken) - Wholesale,44.61,1,2019,KG,0.706728601314311
+Thailand,Meat (chicken) - Wholesale,47.0,2,2019,KG,0.706728601314311
+Thailand,Meat (chicken) - Wholesale,47.0,3,2019,KG,0.706728601314311
+Thailand,Meat (chicken) - Wholesale,47.0,4,2019,KG,0.706728601314311
+Thailand,Meat (chicken) - Wholesale,47.0,5,2019,KG,0.706728601314311
+Thailand,Meat (chicken) - Wholesale,48.68,6,2019,KG,0.706728601314311
+Thailand,Meat (chicken) - Wholesale,49.0,7,2019,KG,0.706728601314311
+Thailand,Meat (chicken) - Wholesale,49.0,8,2019,KG,0.706728601314311
+Thailand,Meat (chicken) - Wholesale,49.0,9,2019,KG,0.706728601314311
+Thailand,Meat (chicken) - Wholesale,48.24,10,2019,KG,0.706728601314311
+Thailand,Meat (chicken) - Wholesale,47.47,11,2019,KG,0.706728601314311
+Thailand,Meat (chicken) - Wholesale,49.86,12,2019,KG,0.706728601314311
+Thailand,Meat (chicken) - Wholesale,48.73,1,2020,KG,-0.845937147357041
+Thailand,Meat (chicken) - Wholesale,46.0,2,2020,KG,-0.845937147357041
+Thailand,Meat (chicken) - Wholesale,45.5,3,2020,KG,-0.845937147357041
