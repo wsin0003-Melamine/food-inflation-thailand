@@ -21,3 +21,7 @@ Dataset source:
 - pip install -r requirements.txt
 
 ** In fact, no one have the same library as our environment so requirement.txt can make another user know what library they need to install.
+
+3. fix all the files name.
+
+4. About README.md is really important so make it easy to read and easy to understand.
