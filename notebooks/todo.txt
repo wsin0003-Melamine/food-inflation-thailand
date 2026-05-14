@@ -1,0 +1,27 @@
+Make it professional
+1. Make only sample Data or only Thialand Inflation rate (csv)
+- 
+sample = food_inflation.sample(1000)
+
+sample.to_csv(
+    "../data/sample_food_prices.csv",
+    index=False
+)
+
+OR 
+
+- Add link in README.md
+Dataset source:
+- World Food Programme
+- World Bank
+
+** Data should not exceed 200 MB cause it too much for github. So, every data taht push to github should be the only data that needed.
+
+2. About requirement.txt 
+- pip install -r requirements.txt
+
+** In fact, no one have the same library as our environment so requirement.txt can make another user know what library they need to install.
+
+3. fix all the files name.
+
+4. About README.md is really important so make it easy to read and easy to understand.
