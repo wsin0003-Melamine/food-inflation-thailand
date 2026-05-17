@@ -22,13 +22,14 @@ Data sources:
 
 ## Project Structure
 
+```text
 food-inflation-thailand/
 │
 ├── data/
 │   ├── raw/
 │   └── cleaned/
 │
-├── notebooks/
+├── notebook/
 │   ├── 01_data_cleaning.ipynb
 │   └── 02_eda_analysis.ipynb
 │
