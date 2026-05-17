@@ -35,7 +35,7 @@ food-inflation-thailand/
 │
 ├── requirements.txt
 ├── README.md
-└── .gitignore```
+└── .gitignore text```
 
 ## Analysis Performed
 
